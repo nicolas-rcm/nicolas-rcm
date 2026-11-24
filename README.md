@@ -18,11 +18,11 @@ Tenho interesse em desenvolvimento de software, programação e tecnologia. Atua
 
 Gosto de transformar ideias em projetos práticos, aprender novas tecnologias e desenvolver soluções que resolvam problemas reais.
 
-- 🎓 Ensino Médio Integrado – IFC Campus Brusque.
-- 💻 Foco em desenvolvimento de software.
-- 🚀 Aprendendo e desenvolvendo projetos com C# e .NET.
-- 🗄️ Conhecimentos em bancos de dados relacionais.
-- 🎯 Buscando uma oportunidade de estágio ou emprego na área de TI.
+-  Ensino Médio Integrado – IFC Campus Brusque.
+-  Foco em desenvolvimento de software.
+-  Aprendendo e desenvolvendo projetos com C# e .NET.
+-  Conhecimentos em bancos de dados relacionais.
+-  Buscando uma oportunidade de estágio ou emprego na área de TI.
 
 ## 🇺🇸 About Me
 
