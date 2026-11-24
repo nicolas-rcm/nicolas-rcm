@@ -32,11 +32,11 @@ I'm interested in software development, programming, and technology. Currently, 
 
 I enjoy turning ideas into practical projects, learning new technologies, and building solutions to real-world problems.
 
-- 🎓 Integrated High School – IFC Brusque Campus.
-- 💻 Focused on software development.
-- 🚀 Learning and building projects with C# and .NET.
-- 🗄️ Knowledge of relational databases.
-- 🎯 Looking for an internship or entry-level opportunity in IT.
+-  Integrated High School – IFC Brusque Campus.
+-  Focused on software development.
+-  Learning and building projects with C# and .NET.
+-  Knowledge of relational databases.
+-  Looking for an internship or entry-level opportunity in IT.
 
 ---
 
