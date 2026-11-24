@@ -40,7 +40,7 @@ I enjoy turning ideas into practical projects, learning new technologies, and bu
 
 ---
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
 ### Programming Languages
 
@@ -68,7 +68,7 @@ I enjoy turning ideas into practical projects, learning new technologies, and bu
 
 ---
 
-## 📂 Featured Projects | Projetos em Destaque
+##  Featured Projects | Projetos em Destaque
 
 ### 💈 BarberApp — Barbershop Management System
 
@@ -115,7 +115,7 @@ Projeto de desenvolvimento de uma loja virtual gamer.
 
 ---
 
-## 📚 Courses & Certifications | Cursos e Formação Complementar
+##  Courses & Certifications | Cursos e Formação Complementar
 
 | Curso | Área |
 |---|---|
@@ -127,7 +127,7 @@ Projeto de desenvolvimento de uma loja virtual gamer.
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=nicolas-rcm&show_icons=true&theme=tokyonight&hide_border=true&locale=en" />
@@ -140,7 +140,7 @@ Projeto de desenvolvimento de uma loja virtual gamer.
 
 ---
 
-## 📫 Connect with me | Entre em contato
+##  Connect with me | Entre em contato
 
 <p align="left">
   <a href="https://github.com/nicolas-rcm">
@@ -156,5 +156,5 @@ Projeto de desenvolvimento de uma loja virtual gamer.
 <p align="center">
   <i>"Learning, building, and evolving one line of code at a time."</i>
   <br/><br/>
-  ⭐ Thanks for visiting my profile!
+   Thanks for visiting my profile!
 </p>
