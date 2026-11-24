@@ -1,4 +1,4 @@
-# 👨‍💻 Nicolas Rodrigues Ciwinski
+#  Nicolas Rodrigues Ciwinski
 
 ### Software Developer in Progress | Full Stack Developer
 
